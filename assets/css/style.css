@@ -78,7 +78,7 @@ h1{
 .container button:first-of-type{
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    background: #833AE0;
+    background: #e0453a;
     color: white;
 }
 
@@ -93,7 +93,7 @@ h1{
     border-bottom-right-radius: 5px;
 }
 .active {
-    background-color: #833AE0;
+    background-color: #e0453a;
 }
 
 

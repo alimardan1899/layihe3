@@ -22,7 +22,7 @@ button.forEach((item)=>{
                 element.style.background = 'white';
                 element.style.color = '#E5E5E5';
             })
-            e.target.style.background = '#833AE0';
+            e.target.style.background = '#e0453a';
             e.target.style.color = 'white';
         }
     })
@@ -39,7 +39,7 @@ secondButton.forEach((element)=>{
                 element.style.background = 'white';
                 element.style.color = '#E5E5E5';
             })
-            a.target.style.background = '#833AE0';
+            a.target.style.background = '#e0453a';
             a.target.style.color = 'white';
         }
     })
